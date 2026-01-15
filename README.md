@@ -1,8 +1,10 @@
 # InDesign XtendedScript Journey
 
 Bem-vindo ao **InDesign XtendedScript Journey** — repositório dedicado ao estudo de automação do Adobe InDesign usando JavaScript / ExtendScript (`.jsx`).  
-Este espaço é a minha jornada de aprendizado: aulas, exercícios, projetos, snippets e materiais de referência para dominar a automação de documentos e fluxos de publicação no InDesign.
-Você está convidado a participar e até colaborar com esta aventura.  
+> 🌐 **Este repositório faz parte do ecossistema [Learning Journey](https://github.com/LuizAntonioOrozimbo/learning-journey)**  
+> Lá você encontra a visão geral do projeto, a filosofia de estudo, os padrões adotados e os demais journeys disponíveis.
+Este espaço representa minha jornada de aprendizado: aulas, exercícios, projetos, snippets e materiais de referência voltados à automação de documentos e fluxos de publicação no InDesign.  
+Você está convidado a acompanhar, participar e até colaborar com esta jornada.  
 
 ---
 
@@ -11,7 +13,8 @@ Você está convidado a participar e até colaborar com esta aventura.
 - Aprender e ensinar, passo a passo, como automatizar tarefas no Adobe InDesign usando ExtendScript (JavaScript para produtos Adobe).  
 - Produzir material didático claro e reprodutível (aulas, exemplos, exercícios e projetos).  
 - Criar uma biblioteca reutilizável de scripts `.jsx`, templates e snippets para acelerar o trabalho prático.
-Tudo isso desenvolvido com o apoio do ChatGPT
+
+Este repositório é desenvolvido com o apoio do **ChatGPT**, atuando como ferramenta de estudo, revisão, organização e documentação — sempre como suporte ao aprendizado, não substituto dele.
 
 ---
 
@@ -31,7 +34,7 @@ InDesign-Xtended-Script-journey/
 │   └── aula-01/  
 ├── 04-avancado/ ← automações complexas, batches, integração com dados  
 ├── 05-projetos/ ← projetos completos (ex.: geração de folhetos)  
-├── 06-boas-praticas/ ← layout ou projetos específicos  
+├── 06-boas-praticas/ ← padrões, arquitetura, performance e boas práticas  
 ├── 07-testes/ ← scripts de experimentação e protótipos  
 └── 08-materiais/ ← PDFs, guias, links, exemplos externos
 ```
@@ -54,19 +57,19 @@ InDesign-Xtended-Script-journey/
    - Snippet `.code-snippets` para VSCode (cabeçalho `.jsx`, novo documento, etc.).  
    - Um arquivo `aula-N.html` ou `aula-N.md` com layout para leitura.  
    - Um script `.jsx` pronto para rodar (ex.: `exemplo-aula-01.jsx`).  
-5. Trabalharemos **por partes**: com aulas criadas; que deverão ser testadas; você pode pedir ou sugerir ajustes; nóseu atualizamos e quem chegar depois, terá um material mais recheado.
+5. Trabalharemos **por partes**: com aulas criadas; que deverão ser testadas; você pode pedir ou sugerir ajustes; nós atualizamos e quem chegar depois, terá um material mais recheado.
 
 ---
 
 ## Plano de aulas (proposta inicial — ordem didática)
 
-### Módulo 01 — Introdução - Preparação
+### Módulo 01 — Introdução — Preparação
 
 - Aula 01.1 — O que é ExtendScript / Diferenças entre JS moderno e ExtendScript  
 - Aula 01.2 — Configurando o ambiente: VSCode, ExtendScript Debugger / Toolkit, painel Scripts do InDesign  
 - Aula 01.3 — Como executar um `.jsx` no InDesign (painel Scripts, execução direta, automatização)
 
-### Módulo 02 — básico - Fundamentos
+### Módulo 02 — Básico - Fundamentos
 
 - Aula 02.1 — Estrutura básica de um script `.jsx` (comentários, alert(), $.writeln)  
 - Aula 02.2 — Acessando o `app` e `documents` (abrir/criar documentos)  
@@ -117,7 +120,7 @@ Os módulos 06, 07 e 08 funcionam como apoio transversal, laboratório e referê
 
 ## Formato das aulas entregues
 
-Para cada aula Há:
+Para cada aula há:
 
 - `texto.md` com explicação teórica e passos.  
 - `exemplo-aula-N.jsx` com o código pronto para testar.  
