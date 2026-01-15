@@ -1,7 +1,6 @@
-# 01 — Introdução
+# Módulo 01 — Introdução
 
-Este módulo marca o **início oficial do estudo prático** de automação com
-**Adobe InDesign + ExtendScript (JavaScript** `.jsx`**)**.
+“Este módulo apresenta o contexto do ExtendScript, prepara o ambiente de trabalho e ensina como executar scripts no InDesign.”
 
 Aqui você vai entender **o contexto**, **o ambiente** e **as regras do jogo**
 antes de começar a escrever scripts mais complexos.
@@ -43,23 +42,10 @@ Cada tema será tratado **em aulas próprias**, com exemplos práticos quando ne
 
 ## 🗂️ Estrutura esperada desta pasta
 
-'''text
-01-introducao/  
-│  
-├── README.md            ← este arquivo  
-│  
-├── aula-01/  
-│   ├── texto.md         ← O que é ExtendScript  
-│   └── exemplo-01.jsx   ← primeiro script (ex.: alert)  
-│  
-├── aula-02/  
-│   ├── texto.md         ← Ambiente e execução de scripts  
-│   └── exemplo-02.jsx  
-│  
-└── aula-03/  
-    ├── texto.md         ← Diferenças entre JS moderno e ExtendScript  
-    └── exemplos/
-'''
+- Aula 01.1 — Contexto e visão geral do ExtendScript
+- Aula 01.2 — Configuração do ambiente de trabalho
+- Aula 01.3 — Execução de scripts no InDesign
+
 > 📌 A estrutura pode evoluir, mas sempre respeitando o padrão do Learning Journey.
 
 ## 🧭 Observações importantes
