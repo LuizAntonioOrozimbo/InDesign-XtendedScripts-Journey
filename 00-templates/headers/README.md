@@ -19,3 +19,30 @@ Os arquivos aqui servem como **base inicial** para aulas, testes e projetos, gar
 
 Os cabeçalhos não são aulas completas.  
 Eles existem para padronizar estrutura, comentários e organização dos scripts.
+
+---
+
+## Headers disponíveis
+
+Esta pasta contém diferentes **modelos de cabeçalho**, cada um com um propósito específico dentro do Journey.
+
+- **header-padrao.jsx**  
+    Base universal do Journey.  
+    Deve ser o ponto de partida para a maioria dos scripts.
+
+- **header-didatico.jsx**  
+    Variante mais comentada, voltada para aulas e aprendizado.
+
+- **header-teste.jsx**  
+    Estrutura enxuta para testes rápidos e experimentação.
+
+- **header-producao.jsx**  
+    Estrutura mais limpa, pensada para scripts finais.
+
+> 📌 Nem todos os scripts precisam de todos os headers.  
+> O importante é escolher conscientemente.  
+><br>
+>🔑 Regra didática:
+>
+>- Todo script pode começar pelo `header-padrao.jsx`
+>- Depois evoluir (ou não) para outro

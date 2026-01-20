@@ -4,6 +4,8 @@ Esta pasta contém **scripts pequenos e reutilizáveis** para tarefas comuns em 
 
 Os snippets servem como blocos de construção para aulas, testes e projetos maiores.
 
+> Snippets não são aulas completas e não substituem os exemplos das aulas.
+
 ## 1️⃣ Snippet: criar-documento.jsx
 
 📄 **Arquivo:** criar-documento.jsx

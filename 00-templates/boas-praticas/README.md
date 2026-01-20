@@ -85,3 +85,15 @@ Sempre que um conceito aqui for usado, ele será **referenciado**, não reexplic
 > desde que você saiba **por que** está fazendo isso.
 
 ---
+
+## Sobre o uso de "use strict"
+
+O uso de `"use strict"` em scripts ExtendScript **não é obrigatório** neste Journey.
+
+Ele pode ser utilizado:
+
+- em scripts didáticos
+- em códigos novos
+- quando o autor deseja maior rigor
+
+Sempre que utilizado, recomenda-se **comentar a decisão no código**.

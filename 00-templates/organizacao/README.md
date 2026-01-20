@@ -2,25 +2,30 @@
 
 ## Papel desta pasta
 
-A pasta **organizacao** existe para definir **regras do jogo**:
+A pasta **organizacao** existe para definir as **regras do jogo** do Journey:
 
-- como nomear arquivos
+- como nomear arquivos e pastas
 - como organizar scripts
-- como manter consistência ao longo do curso
+- como manter consistência ao longo de todo o curso
 
 👉 Nada aqui é código executável.  
-👉 Tudo aqui evita confusão futura.
+👉 Tudo aqui existe para evitar confusão futura e retrabalho.
 
 ---
 
 ## Arquivo principal: `padrao-nomes.md`
 
-📄 **Arquivo:** padrao-nomes.md  
-📌 **Objetivo:** padronizar nomes de arquivos, aulas e scripts
+📄 **Arquivo:** `padrao-nomes.md`  
+📌 **Objetivo:** padronizar nomes de arquivos, aulas, scripts e materiais do Journey.
+
+Este é o **documento central** desta pasta.
+Outros documentos só devem existir se complementarem este padrão.
 
 ---
 
 ## Scripts `.jsx`
+
+Recomendações para **todos os scripts do Journey** (aulas, snippets, testes e projetos):
 
 - Usar nomes claros e descritivos
 - Separar palavras com hífen (`-`)
@@ -36,7 +41,7 @@ A pasta **organizacao** existe para definir **regras do jogo**:
 
 ## Observações gerais
 
-- Prefira clareza a economia de caracteres
+- Prefira clareza à economia de caracteres
 - Evite misturar idiomas no mesmo nome
 - Mantenha o padrão ao longo do projeto
 
