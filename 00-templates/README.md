@@ -3,6 +3,9 @@
 Bem-vindo à pasta **Templates** 👋  
 Este espaço reúne modelos reutilizáveis para acelerar o desenvolvimento de scripts ExtendScript (`.jsx`) para o Adobe InDesign.
 
+> Esta pasta contém materiais que servem a todos os módulos deste Journey.  
+> Seu conteúdo é infraestrutural, não didático.
+
 Aqui você encontrará estruturas prontas que servem como **ponto de partida** para aulas, testes, experimentos e projetos.
 
 ---
@@ -21,9 +24,10 @@ Aqui você encontrará estruturas prontas que servem como **ponto de partida** p
 ```text
 00-templates/
 ├── headers/       ← cabeçalhos padrão para scripts .jsx
-├── aulas/         ← estruturas base para arquivos de aulas
+├── template-aula/         ← estruturas base para arquivos de aulas
 ├── snippets/      ← trechos reutilizáveis de código
-└── organizacao/   ← padrões e convenções do projeto
+├── organizacao/   ← padrões e convenções do projeto  
+└── boas-praticas/   ← princípios e diretrizes gerais
 ```
 
 ### Descrição das pastas
@@ -31,7 +35,7 @@ Aqui você encontrará estruturas prontas que servem como **ponto de partida** p
 - **headers/**  
 Contém modelos de cabeçalho para scripts ExtendScript, utilizados como base em aulas, testes e projetos.
 
-- **aulas/**  
+- **template-aula/**  
 Estruturas padrão para arquivos de aula (texto.md, exercícios e exemplos).
 
 - **snippets/**  
@@ -40,12 +44,15 @@ Scripts pequenos e reutilizáveis para tarefas comuns (criação de documentos, 
 - **organizacao/**  
 Documentos que definem padrões de nomenclatura e organização de código do projeto.
 
+- **boas-praticas/**
+Documentos com princípios, recomendações e diretrizes gerais para escrita de scripts ExtendScript ao longo do journey.
+
 ---
 
 ## Como usar
 
 - Copie o template desejado
-- utilize como base para aulas ou projetos
+- Utilize como base para aulas ou projetos
 - Evolua o código conforme o aprendizado
 
 > Estes arquivos não são aulas completas, mas **ferramentas de apoio** para o estudo e a prática.
