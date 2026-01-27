@@ -1,6 +1,6 @@
 # Nível 1
 
-**Alinhamento do método (vamos oficializar)**
+## Alinhamento do método (vamos oficializar)
 
 ## 🔹 Nível 1 — Memória de Execução
 
@@ -24,7 +24,7 @@ Depois **juntamos tudo**.
 
 ---
 
-## Ordem interna do Nível 1 
+## Ordem interna do Nível 1
 
 Vamos seguir exatamente esta sequência:
 

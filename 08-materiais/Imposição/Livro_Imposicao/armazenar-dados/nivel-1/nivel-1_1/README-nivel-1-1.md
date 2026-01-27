@@ -213,7 +213,7 @@ Vamos refazer o mesmo exemplo anterior, agora corretamente, com usuário leigo.
 
 ### 1️⃣ Caixa de diálogo simples (ScriptUI)
 
-**Objetivo**
+#### Objetivo
 
 Permitir que o usuário informe:
 
@@ -418,7 +418,7 @@ var doc = app.documents.add();
 
 ### 3️⃣ Configurando o documento com os dados do usuário
 
-**3.1 — Formato da página**
+#### 3.1 — Formato da página
 
 ⚠️ Importante:
 O InDesign trabalha internamente em **points**, mas aceita **strings com unidade**.
